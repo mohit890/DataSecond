@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-24T07:15:13 IST" name="Default suite" finished-at="2020-10-24T07:17:37 IST" duration-ms="143599">
+    <groups>
+    </groups>
+    <test started-at="2020-10-24T07:15:13 IST" name="Default test" finished-at="2020-10-24T07:17:37 IST" duration-ms="143599">
+      <class name="DataDrivenExcel.comWordpress">
+        <test-method signature="LoginWordpress(java.lang.String, java.lang.String)[pri:0, instance:DataDrivenExcel.comWordpress@366647c2]" started-at="2020-10-24T07:15:14 IST" name="LoginWordpress" data-provider="loginData" finished-at="2020-10-24T07:15:32 IST" duration-ms="18201" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWordpress -->
+        <test-method signature="LoginWordpress(java.lang.String, java.lang.String)[pri:0, instance:DataDrivenExcel.comWordpress@366647c2]" started-at="2020-10-24T07:15:32 IST" name="LoginWordpress" data-provider="loginData" finished-at="2020-10-24T07:15:44 IST" duration-ms="11330" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWordpress -->
+        <test-method signature="LoginWordpress(java.lang.String, java.lang.String)[pri:0, instance:DataDrivenExcel.comWordpress@366647c2]" started-at="2020-10-24T07:15:44 IST" name="LoginWordpress" data-provider="loginData" finished-at="2020-10-24T07:15:58 IST" duration-ms="14250" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWordpress -->
+        <test-method signature="LoginWordpress(java.lang.String, java.lang.String)[pri:0, instance:DataDrivenExcel.comWordpress@366647c2]" started-at="2020-10-24T07:15:58 IST" name="LoginWordpress" data-provider="loginData" finished-at="2020-10-24T07:16:13 IST" duration-ms="14846" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWordpress -->
+        <test-method signature="LoginWordpress(java.lang.String, java.lang.String)[pri:0, instance:DataDrivenExcel.comWordpress@366647c2]" started-at="2020-10-24T07:16:13 IST" name="LoginWordpress" data-provider="loginData" finished-at="2020-10-24T07:16:27 IST" duration-ms="14209" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWordpress -->
+        <test-method signature="LoginWordpress(java.lang.String, java.lang.String)[pri:0, instance:DataDrivenExcel.comWordpress@366647c2]" started-at="2020-10-24T07:16:27 IST" name="LoginWordpress" data-provider="loginData" finished-at="2020-10-24T07:16:39 IST" duration-ms="12082" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWordpress -->
+        <test-method signature="LoginWordpress(java.lang.String, java.lang.String)[pri:0, instance:DataDrivenExcel.comWordpress@366647c2]" started-at="2020-10-24T07:16:39 IST" name="LoginWordpress" data-provider="loginData" finished-at="2020-10-24T07:16:53 IST" duration-ms="14410" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWordpress -->
+        <test-method signature="LoginWordpress(java.lang.String, java.lang.String)[pri:0, instance:DataDrivenExcel.comWordpress@366647c2]" started-at="2020-10-24T07:16:53 IST" name="LoginWordpress" data-provider="loginData" finished-at="2020-10-24T07:17:07 IST" duration-ms="14098" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWordpress -->
+        <test-method signature="LoginWordpress(java.lang.String, java.lang.String)[pri:0, instance:DataDrivenExcel.comWordpress@366647c2]" started-at="2020-10-24T07:17:07 IST" name="LoginWordpress" data-provider="loginData" finished-at="2020-10-24T07:17:37 IST" duration-ms="29231" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWordpress -->
+      </class> <!-- DataDrivenExcel.comWordpress -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
